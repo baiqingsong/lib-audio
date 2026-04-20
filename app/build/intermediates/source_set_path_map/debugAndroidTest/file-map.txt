@@ -1,0 +1,5 @@
+com.dawn.libaudio.test.app-androidTest-0 D:\lib\14.lib-audio\lib-audio\app\build\generated\res\resValues\androidTest\debug
+com.dawn.libaudio.test.app-androidTest-1 D:\lib\14.lib-audio\lib-audio\app\build\generated\res\rs\androidTest\debug
+com.dawn.libaudio.test.app-mergeDebugAndroidTestResources-2 D:\lib\14.lib-audio\lib-audio\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.dawn.libaudio.test.app-mergeDebugAndroidTestResources-3 D:\lib\14.lib-audio\lib-audio\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.dawn.libaudio.test.app-merged_res-4 D:\lib\14.lib-audio\lib-audio\app\build\intermediates\merged_res\debugAndroidTest
